@@ -10,7 +10,7 @@ struct AboutView: View {
         Form {
             Section {
                 VStack(spacing: .defaultSpacing) {
-                    Text("metatext")
+                    Text("about.codingitwrong-metatext")
                         .font(.largeTitle)
                     Text(verbatim: "\(Self.version) (\(Self.build))")
                 }
