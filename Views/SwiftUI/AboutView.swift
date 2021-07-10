@@ -70,7 +70,7 @@ struct AboutView: View {
 private extension AboutView {
     static let websiteURL = URL(string: "https://metabolist.org")!
     static let officialAccountURL = URL(string: "https://mastodon.social/@metabolist")!
-    static let sourceCodeAndIssueTrackerURL = URL(string: "https://github.com/metabolist/metatext")!
+    static let sourceCodeAndIssueTrackerURL = URL(string: "https://github.com/codingitwrong/metatext")!
     static let translationsURL = URL(string: "https://crowdin.com/project/metatext")!
     static let reviewURL = URL(string: "https://apps.apple.com/app/metatext/id1523996615?mt=8&action=write-review")!
 
