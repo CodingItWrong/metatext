@@ -18,7 +18,7 @@ public extension Timeline {
     typealias Id = String
 
     static let unauthenticatedDefaults: [Timeline] = [.local, .federated]
-    static let authenticatedDefaults: [Timeline] = [.home, .local, .federated]
+    static let authenticatedDefaults: [Timeline] = [.home, .local]
 
     var filterContext: Filter.Context? {
         switch self {
