@@ -1,20 +1,6 @@
-# Metatext
+# CodingItWrong/Metatext
 
-A free, open-source iOS Mastodon client.
-
-[![Download on the App Store](https://metabolist.org/assets/images/download_on_the_app_store.svg)](https://apps.apple.com/us/app/metatext/id1523996615?mt=8)
-
-## Contributing Bug Reports
-
-GitHub is used for bug tracking. Please search [existing issues](https://github.com/metabolist/metatext/issues) and create a new one if the issue is not yet tracked.
-
-## Contributing Translations
-
-You can help translate Metatext on [CrowdIn](https://crowdin.com/project/metatext).
-
-## Contributing Code
-
-See the [contribution guidelines](https://github.com/metabolist/metatext/blob/main/CONTRIBUTING.md).
+A fork of the Metatext Mastodon client with some small personal customizations.
 
 ## Building
 
